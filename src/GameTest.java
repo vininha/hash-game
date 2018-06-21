@@ -1,5 +1,5 @@
 /*
-this class tests the possibilities of mistakes and make it work.
+this class tests the possibilities of mistakes and makes it work.
 it also sets the marks on the hash and sets the players turn on each round
 */
 public class GameTest {
